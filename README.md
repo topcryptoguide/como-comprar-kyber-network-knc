@@ -1,1 +1,3 @@
-# como-comprar-kyber-network-knc
+[**Cómo comprar Kyber Network (KNC)**](https://topcryptoguide.com/como-comprar-kyber-network-knc/)
+
+Este artículo explica **cómo comprar el token Kyber Network Crystal (KNC)**, la criptomoneda nativa del protocolo de liquidez on-chain Kyber Network. Para adquirir KNC normalmente debes **crear una cuenta en un exchange confiable** que liste el token (por ejemplo, OKX, Kraken o Binance), **verificar identidad** si corresponde y **depositar fondos** mediante tarjeta, transferencia o stablecoins para luego comprar KNC desde el mercado spot. Otras opciones incluyen plataformas que permiten compra directa con tarjeta de crédito/débito o métodos locales antes de intercambiar por KNC. Tras la compra, muchos recomiendan **almacenar los tokens en un wallet seguro** para proteger tus claves privadas. :contentReference[oaicite:0]{index=0}
